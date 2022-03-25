@@ -214,6 +214,7 @@ Here is the awesome badge for your project:
 * [AlexeySoshin/Hands-on-Design-Patterns-with-Kotlin](https://github.com/AlexeySoshin/Hands-on-Design-Patterns-with-Kotlin) - Code examples for 'Hands-on Design Patterns with Kotlin' book
 * [From Java To Kotlin](https://github.com/fabiomsr/from-java-to-kotlin) - From Java to Kotlin Cheat Sheet
 * [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
+* [How to leverage functional programming in Kotlin to write better, cleaner code](https://www.reddit.com/r/Kotlin/comments/tnzzxj/how_to_leverage_functional_programming_in_kotlin/) - what Kotlin provides for developers to leverage FP
 
 ### <a name="links-blogs"></a>Blogs <sup>[Back ⇈](#links-blogs-subcategory)</sup>
 * [Antonio Leiva - Android and any other monsters](https://antonioleiva.com/) 
